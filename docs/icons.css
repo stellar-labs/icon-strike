@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?d88724534d76f3508bdeb0fc0ef95528?#iefix") format("embedded-opentype"),
-url("./icons.woff2?d88724534d76f3508bdeb0fc0ef95528") format("woff2"),
-url("./icons.woff?d88724534d76f3508bdeb0fc0ef95528") format("woff"),
-url("./icons.ttf?d88724534d76f3508bdeb0fc0ef95528") format("truetype"),
-url("./icons.svg?d88724534d76f3508bdeb0fc0ef95528#icons") format("svg");
+    src: url("./icons.eot?53ce1f66b1453b61e1bd4ed78cf2bb67?#iefix") format("embedded-opentype"),
+url("./icons.woff2?53ce1f66b1453b61e1bd4ed78cf2bb67") format("woff2"),
+url("./icons.woff?53ce1f66b1453b61e1bd4ed78cf2bb67") format("woff"),
+url("./icons.ttf?53ce1f66b1453b61e1bd4ed78cf2bb67") format("truetype"),
+url("./icons.svg?53ce1f66b1453b61e1bd4ed78cf2bb67#icons") format("svg");
 }
 
 i {
@@ -28,18 +28,30 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-check:before {
     content: "\f102";
 }
-.icon-glass-drink:before {
+.icon-ellipsis-horizontal:before {
     content: "\f103";
 }
-.icon-link:before {
+.icon-ellipsis-vertical:before {
     content: "\f104";
 }
-.icon-menu:before {
+.icon-file:before {
     content: "\f105";
 }
-.icon-to-down:before {
+.icon-flask:before {
     content: "\f106";
 }
-.icon-to-up:before {
+.icon-glass-drink:before {
     content: "\f107";
+}
+.icon-link:before {
+    content: "\f108";
+}
+.icon-menu:before {
+    content: "\f109";
+}
+.icon-to-down:before {
+    content: "\f10a";
+}
+.icon-to-up:before {
+    content: "\f10b";
 }

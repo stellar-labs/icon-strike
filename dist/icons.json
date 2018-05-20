@@ -1,9 +1,13 @@
 {
     "battery-empty": "\\f101",
     "check": "\\f102",
-    "glass-drink": "\\f103",
-    "link": "\\f104",
-    "menu": "\\f105",
-    "to-down": "\\f106",
-    "to-up": "\\f107"
+    "ellipsis-horizontal": "\\f103",
+    "ellipsis-vertical": "\\f104",
+    "file": "\\f105",
+    "flask": "\\f106",
+    "glass-drink": "\\f107",
+    "link": "\\f108",
+    "menu": "\\f109",
+    "to-down": "\\f10a",
+    "to-up": "\\f10b"
 }

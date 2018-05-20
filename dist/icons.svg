@@ -13,20 +13,32 @@
     <glyph glyph-name="check"
       unicode="&#xF102;"
       horiz-adv-x="120" d=" M20 52L50 26L100 92L100 86L50 20L20 46z" />
-    <glyph glyph-name="glass-drink"
+    <glyph glyph-name="ellipsis-horizontal"
       unicode="&#xF103;"
+      horiz-adv-x="120" d=" M56 64L64 64L64 56L56 56z M56 84L64 84L64 76L56 76z M56 44L64 44L64 36L56 36z" />
+    <glyph glyph-name="ellipsis-vertical"
+      unicode="&#xF104;"
+      horiz-adv-x="120" d=" M56 64L64 64L64 56L56 56z M34 64L42 64L42 56L34 56z M76 64L84 64L84 56L76 56z" />
+    <glyph glyph-name="file"
+      unicode="&#xF105;"
+      horiz-adv-x="120" d=" M20 100L24 100L24 20L20 20z M24 24L100 24L100 20L24 20z M78 100L100 76L94 76L76 96z M74 100L78 100L78 76L74 76z M74 76L100 76L100 72L74 72z M24 100L74 100L74 96L24 96z M96 72L100 72L100 24L96 24z" />
+    <glyph glyph-name="flask"
+      unicode="&#xF106;"
+      horiz-adv-x="120" d=" M44 100L76 100L76 96L44 96z M50 96L54 96L54 64L50 68z M70 96L70 68L66 64L66 96z M50 68L54 64L26 24L20 24z M70 68L66 64L94 24L100 24z M20 24L100 24L100 20L20 20z" />
+    <glyph glyph-name="glass-drink"
+      unicode="&#xF107;"
       horiz-adv-x="120" d=" M34 30L74 30L74 34L34 34z M34 90L74 90L74 86L34 86z M34 34L34 86L38 86L38 34z M74 34L74 86L70 86L70 34z M86 68L86 86L90 86L90 66z M74 86L86 86L86 82L74 82z M90 66L74 36L74 46L86 68z" />
     <glyph glyph-name="link"
-      unicode="&#xF104;"
+      unicode="&#xF108;"
       horiz-adv-x="120" d=" M20 74L24 74L24 46L20 46z M96 74L100 74L100 46L96 46z M40 58L54 58L54 62L40 62 M66 62L78 62L78 58L66 58z M56 62L62 62L62 58L56 58z M52 74L56 74L56 46L52 46z M62 74L66 74L66 46L62 46z M24 74L52 74L52 70L24 70z M24 50L52 50L52 46L24 46z M66 74L96 74L96 70L66 70z M66 50L96 50L96 46L66 46z" />
     <glyph glyph-name="menu"
-      unicode="&#xF105;"
+      unicode="&#xF109;"
       horiz-adv-x="120" d=" M20 58L100 58L100 62L20 62z M20 82L100 82L100 78L20 78z M20 38L100 38L100 42L20 42z" />
     <glyph glyph-name="to-down"
-      unicode="&#xF106;"
+      unicode="&#xF10A;"
       horiz-adv-x="120" d=" M20 100L60 20L100 100L96 100L60 28L24 100z" />
     <glyph glyph-name="to-up"
-      unicode="&#xF107;"
+      unicode="&#xF10B;"
       horiz-adv-x="120" d=" M20 20L60 100L100 20L96 20L60 92L24 20z" />
   </font>
 </defs>
