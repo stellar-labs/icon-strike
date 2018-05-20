@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?c09c7d1832092eff16d0aef3b61aa45d?#iefix") format("embedded-opentype"),
-url("./icons.woff2?c09c7d1832092eff16d0aef3b61aa45d") format("woff2"),
-url("./icons.woff?c09c7d1832092eff16d0aef3b61aa45d") format("woff"),
-url("./icons.ttf?c09c7d1832092eff16d0aef3b61aa45d") format("truetype"),
-url("./icons.svg?c09c7d1832092eff16d0aef3b61aa45d#icons") format("svg");
+    src: url("./icons.eot?1e206eea9a7c60c84a72fe9473a5ad01?#iefix") format("embedded-opentype"),
+url("./icons.woff2?1e206eea9a7c60c84a72fe9473a5ad01") format("woff2"),
+url("./icons.woff?1e206eea9a7c60c84a72fe9473a5ad01") format("woff"),
+url("./icons.ttf?1e206eea9a7c60c84a72fe9473a5ad01") format("truetype"),
+url("./icons.svg?1e206eea9a7c60c84a72fe9473a5ad01#icons") format("svg");
 }
 
 i {
@@ -25,12 +25,15 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-battery-empty:before {
     content: "\f101";
 }
-.icon-menu:before {
+.icon-glass-drink:before {
     content: "\f102";
 }
-.icon-to-down:before {
+.icon-menu:before {
     content: "\f103";
 }
-.icon-to-up:before {
+.icon-to-down:before {
     content: "\f104";
+}
+.icon-to-up:before {
+    content: "\f105";
 }
