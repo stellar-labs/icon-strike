@@ -1,7 +1,9 @@
 {
     "battery-empty": "\\f101",
-    "glass-drink": "\\f102",
-    "menu": "\\f103",
-    "to-down": "\\f104",
-    "to-up": "\\f105"
+    "check": "\\f102",
+    "glass-drink": "\\f103",
+    "link": "\\f104",
+    "menu": "\\f105",
+    "to-down": "\\f106",
+    "to-up": "\\f107"
 }

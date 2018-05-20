@@ -54,11 +54,11 @@
 
         @font-face {
     font-family: "icons";
-    src: url("./icons.eot?0e0f51c7da22ef759cb3bd7d04dd5d72?#iefix") format("embedded-opentype"),
-url("./icons.woff2?0e0f51c7da22ef759cb3bd7d04dd5d72") format("woff2"),
-url("./icons.woff?0e0f51c7da22ef759cb3bd7d04dd5d72") format("woff"),
-url("./icons.ttf?0e0f51c7da22ef759cb3bd7d04dd5d72") format("truetype"),
-url("./icons.svg?0e0f51c7da22ef759cb3bd7d04dd5d72#icons") format("svg");
+    src: url("./icons.eot?766305f718b614dd41d92d3c9185dfe1?#iefix") format("embedded-opentype"),
+url("./icons.woff2?766305f718b614dd41d92d3c9185dfe1") format("woff2"),
+url("./icons.woff?766305f718b614dd41d92d3c9185dfe1") format("woff"),
+url("./icons.ttf?766305f718b614dd41d92d3c9185dfe1") format("truetype"),
+url("./icons.svg?766305f718b614dd41d92d3c9185dfe1#icons") format("svg");
 }
 
 i {
@@ -79,17 +79,23 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-battery-empty:before {
     content: "\f101";
 }
-.icon-glass-drink:before {
+.icon-check:before {
     content: "\f102";
 }
-.icon-menu:before {
+.icon-glass-drink:before {
     content: "\f103";
 }
-.icon-to-down:before {
+.icon-link:before {
     content: "\f104";
 }
-.icon-to-up:before {
+.icon-menu:before {
     content: "\f105";
+}
+.icon-to-down:before {
+    content: "\f106";
+}
+.icon-to-up:before {
+    content: "\f107";
 }
 
 
@@ -111,10 +117,28 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 
         <div class="preview">
             <span class="inner">
+                <i class="icon-check"></i>
+            </span>
+            <br>
+            <span class='label'>check</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
                 <i class="icon-glass-drink"></i>
             </span>
             <br>
             <span class='label'>glass-drink</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-link"></i>
+            </span>
+            <br>
+            <span class='label'>link</span>
         </div>
 
 
