@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Icon Strike</title>
+    <title>icons</title>
     <style>
 
         body {
@@ -54,11 +54,11 @@
 
         @font-face {
     font-family: "icons";
-    src: url("./icons.eot?af226b6167da2b91c13f2643b7ad0edc?#iefix") format("embedded-opentype"),
-url("./icons.woff2?af226b6167da2b91c13f2643b7ad0edc") format("woff2"),
-url("./icons.woff?af226b6167da2b91c13f2643b7ad0edc") format("woff"),
-url("./icons.ttf?af226b6167da2b91c13f2643b7ad0edc") format("truetype"),
-url("./icons.svg?af226b6167da2b91c13f2643b7ad0edc#icons") format("svg");
+    src: url("./icons.eot?16d2ebf97963427816da19684d9de7c8?#iefix") format("embedded-opentype"),
+url("./icons.woff2?16d2ebf97963427816da19684d9de7c8") format("woff2"),
+url("./icons.woff?16d2ebf97963427816da19684d9de7c8") format("woff"),
+url("./icons.ttf?16d2ebf97963427816da19684d9de7c8") format("truetype"),
+url("./icons.svg?16d2ebf97963427816da19684d9de7c8#icons") format("svg");
 }
 
 i {
@@ -76,14 +76,17 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-menu:before {
+.icon-battery-empty:before {
     content: "\f101";
 }
-.icon-to-down:before {
+.icon-menu:before {
     content: "\f102";
 }
-.icon-to-up:before {
+.icon-to-down:before {
     content: "\f103";
+}
+.icon-to-up:before {
+    content: "\f104";
 }
 
 
@@ -91,7 +94,16 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 </head>
 <body>
 
-    <h1 style="color: #ff0066;">ICON STRIKE</h1>
+    <h1>icons</h1>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-battery-empty"></i>
+            </span>
+            <br>
+            <span class='label'>battery-empty</span>
+        </div>
 
 
         <div class="preview">

@@ -1,5 +1,6 @@
 {
-    "menu": "\\f101",
-    "to-down": "\\f102",
-    "to-up": "\\f103"
+    "battery-empty": "\\f101",
+    "menu": "\\f102",
+    "to-down": "\\f103",
+    "to-up": "\\f104"
 }

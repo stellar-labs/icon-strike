@@ -7,14 +7,17 @@
       units-per-em="120" ascent="120"
       descent="0" />
     <missing-glyph horiz-adv-x="0" />
-    <glyph glyph-name="menu"
+    <glyph glyph-name="battery-empty"
       unicode="&#xF101;"
+      horiz-adv-x="120" d=" M100 50L100 70L96 70L96 50z M20 40L20 80L24 80L24 40 M90 80L90 70L86 70L86 80z M90 50L90 40L86 40L86 50z M20 80L90 80L90 76L20 76z M24 40L86 40L86 44L24 44z M90 50L100 50L100 46L90 46z M90 70L100 70L100 74L90 74" />
+    <glyph glyph-name="menu"
+      unicode="&#xF102;"
       horiz-adv-x="120" d=" M20 58L100 58L100 62L20 62z M20 82L100 82L100 78L20 78z M20 38L100 38L100 42L20 42z" />
     <glyph glyph-name="to-down"
-      unicode="&#xF102;"
+      unicode="&#xF103;"
       horiz-adv-x="120" d=" M20 100L60 20L100 100L96 100L60 28L24 100z" />
     <glyph glyph-name="to-up"
-      unicode="&#xF103;"
+      unicode="&#xF104;"
       horiz-adv-x="120" d=" M20 20L60 100L100 20L96 20L60 92L24 20z" />
   </font>
 </defs>
