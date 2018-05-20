@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="icons" horiz-adv-x="120">
+    <font-face font-family="icons"
+      units-per-em="120" ascent="120"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="menu"
+      unicode="&#xF101;"
+      horiz-adv-x="120" d=" M20 58L100 58L100 62L20 62z M20 82L100 82L100 78L20 78z M20 38L100 38L100 42L20 42z" />
+    <glyph glyph-name="to-down"
+      unicode="&#xF102;"
+      horiz-adv-x="120" d=" M20 100L60 20L100 100L96 100L60 28L24 100z" />
+    <glyph glyph-name="to-up"
+      unicode="&#xF103;"
+      horiz-adv-x="120" d=" M20 20L60 100L100 20L96 20L60 92L24 20z" />
+  </font>
+</defs>
+</svg>

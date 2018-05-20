@@ -1,0 +1,38 @@
+{
+  "name": "icon-strike",
+  "version": "0.1.0",
+  "description": "Icons for web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js",
+    "icon-font-generator": "icon-font-generator",
+    "svgo": "svgo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellar-labs/icon-strike.git"
+  },
+  "keywords": [
+    "icon",
+    "strike",
+    "css",
+    "web",
+    "html",
+    "svg"
+  ],
+  "author": "Stellar Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stellar-labs/icon-strike/issues"
+  },
+  "homepage": "https://github.com/stellar-labs/icon-strike#readme",
+  "devDependencies": {
+    "fancy-log": "1.*",
+    "svgo": "1.*",
+    "webfonts-generator": "0.*"
+  },
+  "dependencies": {
+    "icon-font-generator": "2.*"
+  }
+}
