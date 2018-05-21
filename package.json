@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node index.js",
     "icon-font-generator": "icon-font-generator",
-    "svgo": "svgo"
+    "svgo": "svgo",
+    "build": "icon-font-generator src/img/*.svg -o dist/"
   },
   "repository": {
     "type": "git",
