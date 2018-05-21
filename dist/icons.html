@@ -54,11 +54,11 @@
 
         @font-face {
     font-family: "icons";
-    src: url("./icons.eot?a85a6244abe2805f28bd20658ab6f9ca?#iefix") format("embedded-opentype"),
-url("./icons.woff2?a85a6244abe2805f28bd20658ab6f9ca") format("woff2"),
-url("./icons.woff?a85a6244abe2805f28bd20658ab6f9ca") format("woff"),
-url("./icons.ttf?a85a6244abe2805f28bd20658ab6f9ca") format("truetype"),
-url("./icons.svg?a85a6244abe2805f28bd20658ab6f9ca#icons") format("svg");
+    src: url("./icons.eot?10b635edc012e1778a8eaa8bca3bafd7?#iefix") format("embedded-opentype"),
+url("./icons.woff2?10b635edc012e1778a8eaa8bca3bafd7") format("woff2"),
+url("./icons.woff?10b635edc012e1778a8eaa8bca3bafd7") format("woff"),
+url("./icons.ttf?10b635edc012e1778a8eaa8bca3bafd7") format("truetype"),
+url("./icons.svg?10b635edc012e1778a8eaa8bca3bafd7#icons") format("svg");
 }
 
 i {
@@ -76,47 +76,65 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-battery-empty:before {
+.icon-app-window:before {
     content: "\f101";
 }
-.icon-check:before {
+.icon-battery-empty:before {
     content: "\f102";
 }
-.icon-ellipsis-horizontal:before {
+.icon-battery-full:before {
     content: "\f103";
 }
-.icon-ellipsis-vertical:before {
+.icon-battery-good:before {
     content: "\f104";
 }
-.icon-file:before {
+.icon-battery-low:before {
     content: "\f105";
 }
-.icon-flask:before {
+.icon-battery-medium:before {
     content: "\f106";
 }
-.icon-glass-drink:before {
+.icon-battery-very-low:before {
     content: "\f107";
 }
-.icon-link:before {
+.icon-check:before {
     content: "\f108";
 }
-.icon-list:before {
+.icon-ellipsis-horizontal:before {
     content: "\f109";
 }
-.icon-menu:before {
+.icon-ellipsis-vertical:before {
     content: "\f10a";
 }
-.icon-screen-desktop:before {
+.icon-file:before {
     content: "\f10b";
 }
-.icon-screen-mobile:before {
+.icon-flask:before {
     content: "\f10c";
 }
-.icon-to-down:before {
+.icon-glass-drink:before {
     content: "\f10d";
 }
-.icon-to-up:before {
+.icon-link:before {
     content: "\f10e";
+}
+.icon-list:before {
+    content: "\f10f";
+}
+.icon-menu:before {
+    content: "\f110";
+}
+.icon-screen-desktop:before {
+    content: "\f111";
+}
+.icon-screen-mobile:before {
+    content: "\f112";
+}
+.icon-to-down:before {
+    content: "\f113";
+}
+.icon-to-up:before {
+    content: "\f114";
 }
 
 
@@ -129,10 +147,64 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 
         <div class="preview">
             <span class="inner">
+                <i class="icon-app-window"></i>
+            </span>
+            <br>
+            <span class='label'>app-window</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
                 <i class="icon-battery-empty"></i>
             </span>
             <br>
             <span class='label'>battery-empty</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-battery-full"></i>
+            </span>
+            <br>
+            <span class='label'>battery-full</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-battery-good"></i>
+            </span>
+            <br>
+            <span class='label'>battery-good</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-battery-low"></i>
+            </span>
+            <br>
+            <span class='label'>battery-low</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-battery-medium"></i>
+            </span>
+            <br>
+            <span class='label'>battery-medium</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-battery-very-low"></i>
+            </span>
+            <br>
+            <span class='label'>battery-very-low</span>
         </div>
 
 

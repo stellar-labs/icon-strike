@@ -1,0 +1,10 @@
+<svg width="120" height="120" style="border: solid 1px lightgrey;">
+  <path d="M 20 20 L 100 20 L 100 24 L 20 24 Z" stroke="black" />
+  <path d="M 20 96 L 100 96 L 100 100 L 20 100" stroke="black" />
+  <path d="M 20 24 L 24 24 L 24 96 L 20 96 Z" stroke="black" />
+  <path d="M 96 24 L 100 24 L 100 96 L 96 96 Z" stroke="black" />
+  <path d="M 28 28 L 32 28 L 32 32 L 28 32 Z" stroke="black" />
+  <path d="M 36 28 L 40 28 L 40 32 L 36 32 Z" stroke="black" />
+  <path d="M 44 28 L 48 28 L 48 32 L 44 32 Z" stroke="black" />
+  <path d="M 24 36 L 96 36 L 96 40 L 24 40" stroke="black"  />
+</svg>

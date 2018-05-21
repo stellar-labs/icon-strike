@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?b51b9440ffd257f3d1b6d8da4d3f92fc?#iefix") format("embedded-opentype"),
-url("./icons.woff2?b51b9440ffd257f3d1b6d8da4d3f92fc") format("woff2"),
-url("./icons.woff?b51b9440ffd257f3d1b6d8da4d3f92fc") format("woff"),
-url("./icons.ttf?b51b9440ffd257f3d1b6d8da4d3f92fc") format("truetype"),
-url("./icons.svg?b51b9440ffd257f3d1b6d8da4d3f92fc#icons") format("svg");
+    src: url("./icons.eot?dc4d3e656481d9d08bdad215a418e4f1?#iefix") format("embedded-opentype"),
+url("./icons.woff2?dc4d3e656481d9d08bdad215a418e4f1") format("woff2"),
+url("./icons.woff?dc4d3e656481d9d08bdad215a418e4f1") format("woff"),
+url("./icons.ttf?dc4d3e656481d9d08bdad215a418e4f1") format("truetype"),
+url("./icons.svg?dc4d3e656481d9d08bdad215a418e4f1#icons") format("svg");
 }
 
 i {
@@ -22,45 +22,63 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-battery-empty:before {
+.icon-app-window:before {
     content: "\f101";
 }
-.icon-check:before {
+.icon-battery-empty:before {
     content: "\f102";
 }
-.icon-ellipsis-horizontal:before {
+.icon-battery-full:before {
     content: "\f103";
 }
-.icon-ellipsis-vertical:before {
+.icon-battery-good:before {
     content: "\f104";
 }
-.icon-file:before {
+.icon-battery-low:before {
     content: "\f105";
 }
-.icon-flask:before {
+.icon-battery-medium:before {
     content: "\f106";
 }
-.icon-glass-drink:before {
+.icon-battery-very-low:before {
     content: "\f107";
 }
-.icon-link:before {
+.icon-check:before {
     content: "\f108";
 }
-.icon-list:before {
+.icon-ellipsis-horizontal:before {
     content: "\f109";
 }
-.icon-menu:before {
+.icon-ellipsis-vertical:before {
     content: "\f10a";
 }
-.icon-screen-desktop:before {
+.icon-file:before {
     content: "\f10b";
 }
-.icon-screen-mobile:before {
+.icon-flask:before {
     content: "\f10c";
 }
-.icon-to-down:before {
+.icon-glass-drink:before {
     content: "\f10d";
 }
-.icon-to-up:before {
+.icon-link:before {
     content: "\f10e";
+}
+.icon-list:before {
+    content: "\f10f";
+}
+.icon-menu:before {
+    content: "\f110";
+}
+.icon-screen-desktop:before {
+    content: "\f111";
+}
+.icon-screen-mobile:before {
+    content: "\f112";
+}
+.icon-to-down:before {
+    content: "\f113";
+}
+.icon-to-up:before {
+    content: "\f114";
 }
