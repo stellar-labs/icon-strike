@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?e6819d5d82c553e9823362741818a078?#iefix") format("embedded-opentype"),
-url("./icons.woff2?e6819d5d82c553e9823362741818a078") format("woff2"),
-url("./icons.woff?e6819d5d82c553e9823362741818a078") format("woff"),
-url("./icons.ttf?e6819d5d82c553e9823362741818a078") format("truetype"),
-url("./icons.svg?e6819d5d82c553e9823362741818a078#icons") format("svg");
+    src: url("./icons.eot?b51b9440ffd257f3d1b6d8da4d3f92fc?#iefix") format("embedded-opentype"),
+url("./icons.woff2?b51b9440ffd257f3d1b6d8da4d3f92fc") format("woff2"),
+url("./icons.woff?b51b9440ffd257f3d1b6d8da4d3f92fc") format("woff"),
+url("./icons.ttf?b51b9440ffd257f3d1b6d8da4d3f92fc") format("truetype"),
+url("./icons.svg?b51b9440ffd257f3d1b6d8da4d3f92fc#icons") format("svg");
 }
 
 i {
@@ -52,9 +52,15 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-menu:before {
     content: "\f10a";
 }
-.icon-to-down:before {
+.icon-screen-desktop:before {
     content: "\f10b";
 }
-.icon-to-up:before {
+.icon-screen-mobile:before {
     content: "\f10c";
+}
+.icon-to-down:before {
+    content: "\f10d";
+}
+.icon-to-up:before {
+    content: "\f10e";
 }

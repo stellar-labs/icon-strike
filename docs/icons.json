@@ -9,6 +9,8 @@
     "link": "\\f108",
     "list": "\\f109",
     "menu": "\\f10a",
-    "to-down": "\\f10b",
-    "to-up": "\\f10c"
+    "screen-desktop": "\\f10b",
+    "screen-mobile": "\\f10c",
+    "to-down": "\\f10d",
+    "to-up": "\\f10e"
 }

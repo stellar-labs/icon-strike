@@ -37,11 +37,17 @@
     <glyph glyph-name="menu"
       unicode="&#xF10A;"
       horiz-adv-x="120" d=" M20 58L100 58L100 62L20 62z M20 82L100 82L100 78L20 78z M20 38L100 38L100 42L20 42z" />
-    <glyph glyph-name="to-down"
+    <glyph glyph-name="screen-desktop"
       unicode="&#xF10B;"
+      horiz-adv-x="120" d=" M50 34L70 34L70 30L50 30z M20 90L100 90L100 86L20 86z M20 48L100 48L100 44L20 44z M20 86L24 86L24 48L20 48z M96 86L100 86L100 48L96 48z M58 44L62 44L62 34L58 34z" />
+    <glyph glyph-name="screen-mobile"
+      unicode="&#xF10C;"
+      horiz-adv-x="120" d=" M36 100L84 100L84 96L36 96z M36 24L84 24L84 20L36 20z M36 96L40 96L40 24L36 24z M80 96L84 96L84 24L80 24z M58 32L62 32L62 28L58 28z M50 92L70 92L70 88L50 88z" />
+    <glyph glyph-name="to-down"
+      unicode="&#xF10D;"
       horiz-adv-x="120" d=" M20 100L60 20L100 100L96 100L60 28L24 100z" />
     <glyph glyph-name="to-up"
-      unicode="&#xF10C;"
+      unicode="&#xF10E;"
       horiz-adv-x="120" d=" M20 20L60 100L100 20L96 20L60 92L24 20z" />
   </font>
 </defs>

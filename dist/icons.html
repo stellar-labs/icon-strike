@@ -54,11 +54,11 @@
 
         @font-face {
     font-family: "icons";
-    src: url("./icons.eot?67456a1dcd3d4249ae84136fdf25e488?#iefix") format("embedded-opentype"),
-url("./icons.woff2?67456a1dcd3d4249ae84136fdf25e488") format("woff2"),
-url("./icons.woff?67456a1dcd3d4249ae84136fdf25e488") format("woff"),
-url("./icons.ttf?67456a1dcd3d4249ae84136fdf25e488") format("truetype"),
-url("./icons.svg?67456a1dcd3d4249ae84136fdf25e488#icons") format("svg");
+    src: url("./icons.eot?a85a6244abe2805f28bd20658ab6f9ca?#iefix") format("embedded-opentype"),
+url("./icons.woff2?a85a6244abe2805f28bd20658ab6f9ca") format("woff2"),
+url("./icons.woff?a85a6244abe2805f28bd20658ab6f9ca") format("woff"),
+url("./icons.ttf?a85a6244abe2805f28bd20658ab6f9ca") format("truetype"),
+url("./icons.svg?a85a6244abe2805f28bd20658ab6f9ca#icons") format("svg");
 }
 
 i {
@@ -106,11 +106,17 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-menu:before {
     content: "\f10a";
 }
-.icon-to-down:before {
+.icon-screen-desktop:before {
     content: "\f10b";
 }
-.icon-to-up:before {
+.icon-screen-mobile:before {
     content: "\f10c";
+}
+.icon-to-down:before {
+    content: "\f10d";
+}
+.icon-to-up:before {
+    content: "\f10e";
 }
 
 
@@ -208,6 +214,24 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
             </span>
             <br>
             <span class='label'>menu</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-screen-desktop"></i>
+            </span>
+            <br>
+            <span class='label'>screen-desktop</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-screen-mobile"></i>
+            </span>
+            <br>
+            <span class='label'>screen-mobile</span>
         </div>
 
 
