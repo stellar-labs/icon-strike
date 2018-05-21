@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?53ce1f66b1453b61e1bd4ed78cf2bb67?#iefix") format("embedded-opentype"),
-url("./icons.woff2?53ce1f66b1453b61e1bd4ed78cf2bb67") format("woff2"),
-url("./icons.woff?53ce1f66b1453b61e1bd4ed78cf2bb67") format("woff"),
-url("./icons.ttf?53ce1f66b1453b61e1bd4ed78cf2bb67") format("truetype"),
-url("./icons.svg?53ce1f66b1453b61e1bd4ed78cf2bb67#icons") format("svg");
+    src: url("./icons.eot?e6819d5d82c553e9823362741818a078?#iefix") format("embedded-opentype"),
+url("./icons.woff2?e6819d5d82c553e9823362741818a078") format("woff2"),
+url("./icons.woff?e6819d5d82c553e9823362741818a078") format("woff"),
+url("./icons.ttf?e6819d5d82c553e9823362741818a078") format("truetype"),
+url("./icons.svg?e6819d5d82c553e9823362741818a078#icons") format("svg");
 }
 
 i {
@@ -46,12 +46,15 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-link:before {
     content: "\f108";
 }
-.icon-menu:before {
+.icon-list:before {
     content: "\f109";
 }
-.icon-to-down:before {
+.icon-menu:before {
     content: "\f10a";
 }
-.icon-to-up:before {
+.icon-to-down:before {
     content: "\f10b";
+}
+.icon-to-up:before {
+    content: "\f10c";
 }

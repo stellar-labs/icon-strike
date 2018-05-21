@@ -31,14 +31,17 @@
     <glyph glyph-name="link"
       unicode="&#xF108;"
       horiz-adv-x="120" d=" M20 74L24 74L24 46L20 46z M96 74L100 74L100 46L96 46z M40 58L54 58L54 62L40 62 M66 62L78 62L78 58L66 58z M56 62L62 62L62 58L56 58z M52 74L56 74L56 46L52 46z M62 74L66 74L66 46L62 46z M24 74L52 74L52 70L24 70z M24 50L52 50L52 46L24 46z M66 74L96 74L96 70L66 70z M66 50L96 50L96 46L66 46z" />
-    <glyph glyph-name="menu"
+    <glyph glyph-name="list"
       unicode="&#xF109;"
+      horiz-adv-x="120" d=" M20 56L28 56L28 64L20 64z M20 84L28 84L28 76L20 76z M20 36L28 36L28 44L20 44z M36 58L100 58L100 62L36 62z M36 82L100 82L100 78L36 78z M36 42L100 42L100 38L36 38z" />
+    <glyph glyph-name="menu"
+      unicode="&#xF10A;"
       horiz-adv-x="120" d=" M20 58L100 58L100 62L20 62z M20 82L100 82L100 78L20 78z M20 38L100 38L100 42L20 42z" />
     <glyph glyph-name="to-down"
-      unicode="&#xF10A;"
+      unicode="&#xF10B;"
       horiz-adv-x="120" d=" M20 100L60 20L100 100L96 100L60 28L24 100z" />
     <glyph glyph-name="to-up"
-      unicode="&#xF10B;"
+      unicode="&#xF10C;"
       horiz-adv-x="120" d=" M20 20L60 100L100 20L96 20L60 92L24 20z" />
   </font>
 </defs>

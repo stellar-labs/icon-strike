@@ -7,7 +7,8 @@
     "flask": "\\f106",
     "glass-drink": "\\f107",
     "link": "\\f108",
-    "menu": "\\f109",
-    "to-down": "\\f10a",
-    "to-up": "\\f10b"
+    "list": "\\f109",
+    "menu": "\\f10a",
+    "to-down": "\\f10b",
+    "to-up": "\\f10c"
 }
