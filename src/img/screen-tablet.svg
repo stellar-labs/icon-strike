@@ -1,0 +1,7 @@
+<svg width="120" height="120" style="border: solid 1px lightgrey;">
+   <path d="M 26 20 L 30 20 L 30 100 L 26 100 Z" stroke="black" />
+   <path d="M 30 96 L 94 96 L 94 100 L 30 100 Z" stroke="black" />
+   <path d="M 30 20 L 90 20 L 90 24 L 30 24 Z" stroke="black" />
+   <path d="M 90 20 L 94 20 L 94 96 L 90 96 Z" stroke="black" />
+   <path d="M 56 84 L 64 84 L 64 92 L 56 92 Z" stroke="black" />
+</svg>

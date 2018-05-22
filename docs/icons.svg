@@ -28,44 +28,59 @@
     <glyph glyph-name="battery-very-low"
       unicode="&#xF107;"
       horiz-adv-x="120" d=" M100 50L100 70L96 70L96 50z M20 40L20 80L24 80L24 40 M90 80L90 70L86 70L86 80z M90 50L90 40L86 40L86 50z M20 80L90 80L90 76L20 76z M24 40L86 40L86 44L24 44z M90 50L100 50L100 46L90 46z M90 70L100 70L100 74L90 74 M28 72L42 72L42 48L28 48z" />
-    <glyph glyph-name="check"
+    <glyph glyph-name="bookmark"
       unicode="&#xF108;"
-      horiz-adv-x="120" d=" M20 52L50 26L100 92L100 86L50 20L20 46z" />
-    <glyph glyph-name="ellipsis-horizontal"
+      horiz-adv-x="120" d=" M30 100L34 100L34 20L30 20z M86 100L90 100L90 20L86 20z M34 100L86 100L86 96L34 96z M34 26L60 46L60 40L34 20z M60 46L86 26L86 20L60 40z" />
+    <glyph glyph-name="check"
       unicode="&#xF109;"
+      horiz-adv-x="120" d=" M20 52L50 26L100 92L100 86L50 20L20 46z" />
+    <glyph glyph-name="cofee"
+      unicode="&#xF10A;"
+      horiz-adv-x="120" d=" M28 46L84 46L84 42L28 42z M38 74L74 74L74 70L38 70z M38 50L74 50L74 46L38 46z M38 70L42 70L42 50L38 50z M70 70L74 70L74 50L70 50z M74 74L88 74L88 70L74 70z M74 62L88 62L88 58L74 58z M84 70L88 70L88 62L84 62z" />
+    <glyph glyph-name="copy"
+      unicode="&#xF10B;"
+      horiz-adv-x="120" d=" M40 80L100 80L100 76L40 76z M40 24L100 24L100 20L40 20z M40 76L44 76L44 24L40 24z M96 76L100 76L100 24L96 24z M20 100L80 100L80 96L20 96z M20 96L24 96L24 40L20 40z M76 96L80 96L80 80L76 80z M24 44L40 44L40 40L24 40z" />
+    <glyph glyph-name="cut"
+      unicode="&#xF10C;"
+      horiz-adv-x="120" d=" M40 80L100 80L100 76L40 76z M40 24L100 24L100 20L40 20z M40 76L44 76L44 24L40 24z M96 76L100 76L100 24L96 24z M20 100L24 100L24 96L20 96z M30 100L34 100L34 96L30 96z M40 100L44 100L44 96L40 96z M50 100L54 100L54 96L50 96z M60 100L64 100L64 96L60 96z M70 100L74 100L74 96L70 96z M76 90L80 90L80 86L76 86z M20 90L24 90L24 86L20 86z M20 80L24 80L24 76L20 76z M20 70L24 70L24 66L20 66z M20 60L24 60L24 56L20 56z M20 50L24 50L24 46L20 46z M30 44L34 44L34 40L30 40z" />
+    <glyph glyph-name="ellipsis-horizontal"
+      unicode="&#xF10D;"
       horiz-adv-x="120" d=" M56 64L64 64L64 56L56 56z M56 84L64 84L64 76L56 76z M56 44L64 44L64 36L56 36z" />
     <glyph glyph-name="ellipsis-vertical"
-      unicode="&#xF10A;"
+      unicode="&#xF10E;"
       horiz-adv-x="120" d=" M56 64L64 64L64 56L56 56z M34 64L42 64L42 56L34 56z M76 64L84 64L84 56L76 56z" />
     <glyph glyph-name="file"
-      unicode="&#xF10B;"
+      unicode="&#xF10F;"
       horiz-adv-x="120" d=" M30 100L34 100L34 20L30 20z M34 24L90 24L90 20L34 20z M68 100L90 76L84 76L64 96z M64 100L68 100L68 76L64 76z M64 76L90 76L90 72L64 72z M34 100L64 100L64 96L34 96z M86 72L90 72L90 24L86 24z" />
     <glyph glyph-name="flask"
-      unicode="&#xF10C;"
+      unicode="&#xF110;"
       horiz-adv-x="120" d=" M44 100L76 100L76 96L44 96z M50 96L54 96L54 64L50 68z M70 96L70 68L66 64L66 96z M50 68L54 64L26 24L20 24z M70 68L66 64L94 24L100 24z M20 24L100 24L100 20L20 20z" />
     <glyph glyph-name="glass-drink"
-      unicode="&#xF10D;"
+      unicode="&#xF111;"
       horiz-adv-x="120" d=" M34 30L74 30L74 34L34 34z M34 90L74 90L74 86L34 86z M34 34L34 86L38 86L38 34z M74 34L74 86L70 86L70 34z M86 68L86 86L90 86L90 66z M74 86L86 86L86 82L74 82z M90 66L74 36L74 46L86 68z" />
     <glyph glyph-name="link"
-      unicode="&#xF10E;"
+      unicode="&#xF112;"
       horiz-adv-x="120" d=" M20 74L24 74L24 46L20 46z M96 74L100 74L100 46L96 46z M40 58L54 58L54 62L40 62 M66 62L78 62L78 58L66 58z M56 62L62 62L62 58L56 58z M52 74L56 74L56 46L52 46z M62 74L66 74L66 46L62 46z M24 74L52 74L52 70L24 70z M24 50L52 50L52 46L24 46z M66 74L96 74L96 70L66 70z M66 50L96 50L96 46L66 46z" />
     <glyph glyph-name="list"
-      unicode="&#xF10F;"
+      unicode="&#xF113;"
       horiz-adv-x="120" d=" M20 56L28 56L28 64L20 64z M20 84L28 84L28 76L20 76z M20 36L28 36L28 44L20 44z M36 58L100 58L100 62L36 62z M36 82L100 82L100 78L36 78z M36 42L100 42L100 38L36 38z" />
     <glyph glyph-name="menu"
-      unicode="&#xF110;"
+      unicode="&#xF114;"
       horiz-adv-x="120" d=" M20 58L100 58L100 62L20 62z M20 82L100 82L100 78L20 78z M20 38L100 38L100 42L20 42z" />
     <glyph glyph-name="screen-desktop"
-      unicode="&#xF111;"
+      unicode="&#xF115;"
       horiz-adv-x="120" d=" M50 34L70 34L70 30L50 30z M20 90L100 90L100 86L20 86z M20 48L100 48L100 44L20 44z M20 86L24 86L24 48L20 48z M96 86L100 86L100 48L96 48z M58 44L62 44L62 34L58 34z" />
     <glyph glyph-name="screen-mobile"
-      unicode="&#xF112;"
+      unicode="&#xF116;"
       horiz-adv-x="120" d=" M36 100L84 100L84 96L36 96z M36 24L84 24L84 20L36 20z M36 96L40 96L40 24L36 24z M80 96L84 96L84 24L80 24z M58 32L62 32L62 28L58 28z M50 92L70 92L70 88L50 88z" />
+    <glyph glyph-name="screen-tablet"
+      unicode="&#xF117;"
+      horiz-adv-x="120" d=" M26 100L30 100L30 20L26 20z M30 24L94 24L94 20L30 20z M30 100L90 100L90 96L30 96z M90 100L94 100L94 24L90 24z M56 36L64 36L64 28L56 28z" />
     <glyph glyph-name="to-down"
-      unicode="&#xF113;"
+      unicode="&#xF118;"
       horiz-adv-x="120" d=" M20 100L60 20L100 100L96 100L60 28L24 100z" />
     <glyph glyph-name="to-up"
-      unicode="&#xF114;"
+      unicode="&#xF119;"
       horiz-adv-x="120" d=" M20 20L60 100L100 20L96 20L60 92L24 20z" />
   </font>
 </defs>

@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?21d1cbcbc1371ef122515b3383154320?#iefix") format("embedded-opentype"),
-url("./icons.woff2?21d1cbcbc1371ef122515b3383154320") format("woff2"),
-url("./icons.woff?21d1cbcbc1371ef122515b3383154320") format("woff"),
-url("./icons.ttf?21d1cbcbc1371ef122515b3383154320") format("truetype"),
-url("./icons.svg?21d1cbcbc1371ef122515b3383154320#icons") format("svg");
+    src: url("./icons.eot?e9220649fd028b52d36e36eb60643e11?#iefix") format("embedded-opentype"),
+url("./icons.woff2?e9220649fd028b52d36e36eb60643e11") format("woff2"),
+url("./icons.woff?e9220649fd028b52d36e36eb60643e11") format("woff"),
+url("./icons.ttf?e9220649fd028b52d36e36eb60643e11") format("truetype"),
+url("./icons.svg?e9220649fd028b52d36e36eb60643e11#icons") format("svg");
 }
 
 i {
@@ -43,42 +43,57 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-battery-very-low:before {
     content: "\f107";
 }
-.icon-check:before {
+.icon-bookmark:before {
     content: "\f108";
 }
-.icon-ellipsis-horizontal:before {
+.icon-check:before {
     content: "\f109";
 }
-.icon-ellipsis-vertical:before {
+.icon-cofee:before {
     content: "\f10a";
 }
-.icon-file:before {
+.icon-copy:before {
     content: "\f10b";
 }
-.icon-flask:before {
+.icon-cut:before {
     content: "\f10c";
 }
-.icon-glass-drink:before {
+.icon-ellipsis-horizontal:before {
     content: "\f10d";
 }
-.icon-link:before {
+.icon-ellipsis-vertical:before {
     content: "\f10e";
 }
-.icon-list:before {
+.icon-file:before {
     content: "\f10f";
 }
-.icon-menu:before {
+.icon-flask:before {
     content: "\f110";
 }
-.icon-screen-desktop:before {
+.icon-glass-drink:before {
     content: "\f111";
 }
-.icon-screen-mobile:before {
+.icon-link:before {
     content: "\f112";
 }
-.icon-to-down:before {
+.icon-list:before {
     content: "\f113";
 }
-.icon-to-up:before {
+.icon-menu:before {
     content: "\f114";
+}
+.icon-screen-desktop:before {
+    content: "\f115";
+}
+.icon-screen-mobile:before {
+    content: "\f116";
+}
+.icon-screen-tablet:before {
+    content: "\f117";
+}
+.icon-to-down:before {
+    content: "\f118";
+}
+.icon-to-up:before {
+    content: "\f119";
 }
