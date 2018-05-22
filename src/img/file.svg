@@ -1,9 +1,9 @@
 <svg width="120" height="120" style="border: solid 1px lightgrey;">
-   <path d="M 20 20 L 24 20 L 24 100 L 20 100 Z" stroke="black" />
-   <path d="M 24 96 L 100 96 L 100 100 L 24 100 Z" stroke="black" />
-   <path d="M 78 20 L 100 44 L 94 44 L 76 24 Z" stroke="black" />
-   <path d="M 74 20 L 78 20 L 78 44 L 74 44 Z" stroke="black" />
-   <path d="M 74 44 L 100 44 L 100 48 L 74 48 Z" stroke="black" />
-   <path d="M 24 20 L 74 20 L 74 24 L 24 24 Z" stroke="black" />
-   <path d="M 96 48 L 100 48 L 100 96 L 96 96 Z" stroke="black" />
+   <path d="M 30 20 L 34 20 L 34 100 L 30 100 Z" stroke="black" />
+   <path d="M 34 96 L 90 96 L 90 100 L 34 100 Z" stroke="black" />
+   <path d="M 68 20 L 90 44 L 84 44 L 64 24 Z" stroke="black" />
+   <path d="M 64 20 L 68 20 L 68 44 L 64 44 Z" stroke="black" />
+   <path d="M 64 44 L 90 44 L 90 48 L 64 48 Z" stroke="black" />
+   <path d="M 34 20 L 64 20 L 64 24 L 34 24 Z" stroke="black" />
+   <path d="M 86 48 L 90 48 L 90 96 L 86 96 Z" stroke="black" />
 </svg>
