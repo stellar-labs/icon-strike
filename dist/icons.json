@@ -19,10 +19,11 @@
     "link": "\\f112",
     "list": "\\f113",
     "menu": "\\f114",
-    "screen-desktop": "\\f115",
-    "screen-mobile": "\\f116",
-    "screen-tablet": "\\f117",
-    "sign": "\\f118",
-    "to-down": "\\f119",
-    "to-up": "\\f11a"
+    "microchip": "\\f115",
+    "screen-desktop": "\\f116",
+    "screen-mobile": "\\f117",
+    "screen-tablet": "\\f118",
+    "sign": "\\f119",
+    "to-down": "\\f11a",
+    "to-up": "\\f11b"
 }

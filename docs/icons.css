@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?79c5bce2e83e7fce5e42b0966be52ed7?#iefix") format("embedded-opentype"),
-url("./icons.woff2?79c5bce2e83e7fce5e42b0966be52ed7") format("woff2"),
-url("./icons.woff?79c5bce2e83e7fce5e42b0966be52ed7") format("woff"),
-url("./icons.ttf?79c5bce2e83e7fce5e42b0966be52ed7") format("truetype"),
-url("./icons.svg?79c5bce2e83e7fce5e42b0966be52ed7#icons") format("svg");
+    src: url("./icons.eot?c3d3780e1b648e9685f3727b88446743?#iefix") format("embedded-opentype"),
+url("./icons.woff2?c3d3780e1b648e9685f3727b88446743") format("woff2"),
+url("./icons.woff?c3d3780e1b648e9685f3727b88446743") format("woff"),
+url("./icons.ttf?c3d3780e1b648e9685f3727b88446743") format("truetype"),
+url("./icons.svg?c3d3780e1b648e9685f3727b88446743#icons") format("svg");
 }
 
 i {
@@ -82,21 +82,24 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-menu:before {
     content: "\f114";
 }
-.icon-screen-desktop:before {
+.icon-microchip:before {
     content: "\f115";
 }
-.icon-screen-mobile:before {
+.icon-screen-desktop:before {
     content: "\f116";
 }
-.icon-screen-tablet:before {
+.icon-screen-mobile:before {
     content: "\f117";
 }
-.icon-sign:before {
+.icon-screen-tablet:before {
     content: "\f118";
 }
-.icon-to-down:before {
+.icon-sign:before {
     content: "\f119";
 }
-.icon-to-up:before {
+.icon-to-down:before {
     content: "\f11a";
+}
+.icon-to-up:before {
+    content: "\f11b";
 }
