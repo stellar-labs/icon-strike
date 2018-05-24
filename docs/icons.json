@@ -22,6 +22,7 @@
     "screen-desktop": "\\f115",
     "screen-mobile": "\\f116",
     "screen-tablet": "\\f117",
-    "to-down": "\\f118",
-    "to-up": "\\f119"
+    "sign": "\\f118",
+    "to-down": "\\f119",
+    "to-up": "\\f11a"
 }

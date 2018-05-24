@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?e9220649fd028b52d36e36eb60643e11?#iefix") format("embedded-opentype"),
-url("./icons.woff2?e9220649fd028b52d36e36eb60643e11") format("woff2"),
-url("./icons.woff?e9220649fd028b52d36e36eb60643e11") format("woff"),
-url("./icons.ttf?e9220649fd028b52d36e36eb60643e11") format("truetype"),
-url("./icons.svg?e9220649fd028b52d36e36eb60643e11#icons") format("svg");
+    src: url("./icons.eot?79c5bce2e83e7fce5e42b0966be52ed7?#iefix") format("embedded-opentype"),
+url("./icons.woff2?79c5bce2e83e7fce5e42b0966be52ed7") format("woff2"),
+url("./icons.woff?79c5bce2e83e7fce5e42b0966be52ed7") format("woff"),
+url("./icons.ttf?79c5bce2e83e7fce5e42b0966be52ed7") format("truetype"),
+url("./icons.svg?79c5bce2e83e7fce5e42b0966be52ed7#icons") format("svg");
 }
 
 i {
@@ -91,9 +91,12 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-screen-tablet:before {
     content: "\f117";
 }
-.icon-to-down:before {
+.icon-sign:before {
     content: "\f118";
 }
-.icon-to-up:before {
+.icon-to-down:before {
     content: "\f119";
+}
+.icon-to-up:before {
+    content: "\f11a";
 }

@@ -76,11 +76,14 @@
     <glyph glyph-name="screen-tablet"
       unicode="&#xF117;"
       horiz-adv-x="120" d=" M26 100L30 100L30 20L26 20z M30 24L94 24L94 20L30 20z M30 100L90 100L90 96L30 96z M90 100L94 100L94 24L90 24z M56 36L64 36L64 28L56 28z" />
-    <glyph glyph-name="to-down"
+    <glyph glyph-name="sign"
       unicode="&#xF118;"
+      horiz-adv-x="120" d=" M50 50L54 50L54 20L50 20z M50 100L54 100L54 92L50 92z M20 92L24 92L24 50L20 50z M78 92L100 72L94 72L76 88z M76 54L94 72L100 72L78 50z M24 92L78 92L76 88L24 88z M24 54L76 54L78 50L24 50z" />
+    <glyph glyph-name="to-down"
+      unicode="&#xF119;"
       horiz-adv-x="120" d=" M20 100L60 20L100 100L96 100L60 28L24 100z" />
     <glyph glyph-name="to-up"
-      unicode="&#xF119;"
+      unicode="&#xF11A;"
       horiz-adv-x="120" d=" M20 20L60 100L100 20L96 20L60 92L24 20z" />
   </font>
 </defs>
